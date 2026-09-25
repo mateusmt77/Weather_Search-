@@ -1,6 +1,6 @@
-package com.mateusrangel.Main;
+package com.mateusrangel.app;
 
-public class Main {
+public class app {
     public static void main(String[] args) {
 
     }
